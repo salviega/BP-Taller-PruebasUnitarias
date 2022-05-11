@@ -1,3 +1,3 @@
-# BP-Práctica-JUnit y Mockito
+# BP-Práctica-Pruebas Unitarias con Maiven
 
-Buenas Prácticas: Práctica - Pruebas Unitarias.
+Buenas Prácticas: Práctica - Pruebas Unitarias con Maiven.
